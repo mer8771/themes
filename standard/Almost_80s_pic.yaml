@@ -1,0 +1,29 @@
+name: Almost_80s_pic
+accent: '#f706cf'
+cursor: '#791e94'
+background: '#b6eeff'
+details: darker
+foreground: '#180016'
+background_image:
+  path: # https://nofuse8771.com/assets/img/warp_pics/almost_80s_pic.jpg
+  #path: standard/almost_80s_pic.jpg
+  opacity: 30
+terminal_colors:
+  bright:
+    black: '#640019'
+    blue: '#002fff'
+    cyan: '#3e8c9e'
+    green: '#007a0a'
+    magenta: '#fd3777'
+    red: '#c01e18'
+    white: '#fec89a'
+    yellow: '#fe9418'
+  normal:
+    black: '#640019'
+    blue: '#002fff'
+    cyan: '#3e8c9e'
+    green: '#007a0a'
+    magenta: '#fd3777'
+    red: '#c01e18'
+    white: '#fec89a'
+    yellow: '#fe9418'
